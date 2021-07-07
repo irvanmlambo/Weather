@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="degree_celsius_symbol">°C</string>
+    <string name="feels_like">Feels like %1s %2s</string>
+    <string name="refresh">REFRESH</string>
+    <string name="pressure">Pressure</string>
+    <string name="wind">Wind</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="humidity">Humidity</string>
+    <string name="visibility">Visibility</string>
+    <string name="sunset">Sunset</string>
+</resources>
